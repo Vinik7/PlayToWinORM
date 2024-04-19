@@ -11,5 +11,4 @@ const Usuario = db.define("Usuario",{
         required:true,
     }
 })
-
 module.exports = Usuario;
